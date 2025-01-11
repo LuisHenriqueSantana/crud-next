@@ -35,7 +35,7 @@ export default function handler(req, res) {
       break;
 
     default:
-      res.status(405).end();
+      res.status(405).end();  // Method Not Allowed
       break;
   }
 }

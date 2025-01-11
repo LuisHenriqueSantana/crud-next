@@ -1,20 +1,10 @@
 [
   {
-    "id": 1,
-    "nome": "Produto 1",
-    "preco": 100
+    "nome": "aaaaaa",
+    "preco": "033333"
   },
   {
-    "id": 2,
-    "nome": "Produto 2",
-    "preco": 200
-  },
-  {
-    "nome": "aaaaa",
-    "preco": "02223"
-  },
-  {
-    "nome": "dadsa",
-    "preco": "03232"
+    "nome": "4444",
+    "preco": "022"
   }
 ]
